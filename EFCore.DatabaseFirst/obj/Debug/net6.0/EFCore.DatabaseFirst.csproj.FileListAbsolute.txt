@@ -62,3 +62,4 @@ C:\Users\Atilla KALAY\source\repos\EFCore\EFCore.DatabaseFirst\bin\Debug\net6.0\
 C:\Users\Atilla KALAY\source\repos\EFCore\EFCore.DatabaseFirst\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
 C:\Users\Atilla KALAY\source\repos\EFCore\EFCore.DatabaseFirst\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\Atilla KALAY\source\repos\EFCore\EFCore.DatabaseFirst\bin\Debug\net6.0\appsettings.json
+C:\Users\Atilla KALAY\source\repos\EFCore\EFCore.DatabaseFirst\obj\Debug\net6.0\EFCore.DatabaseFirst.sourcelink.json

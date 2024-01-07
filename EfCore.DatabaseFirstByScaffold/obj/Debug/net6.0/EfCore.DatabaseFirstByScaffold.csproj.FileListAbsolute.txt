@@ -57,3 +57,4 @@ C:\Users\Atilla KALAY\source\repos\EFCore\EfCore.DatabaseFirstByScaffold\obj\Deb
 C:\Users\Atilla KALAY\source\repos\EFCore\EfCore.DatabaseFirstByScaffold\obj\Debug\net6.0\EfCore.DatabaseFirstByScaffold.pdb
 C:\Users\Atilla KALAY\source\repos\EFCore\EfCore.DatabaseFirstByScaffold\obj\Debug\net6.0\EfCore.DatabaseFirstByScaffold.genruntimeconfig.cache
 C:\Users\Atilla KALAY\source\repos\EFCore\EfCore.DatabaseFirstByScaffold\obj\Debug\net6.0\ref\EfCore.DatabaseFirstByScaffold.dll
+C:\Users\Atilla KALAY\source\repos\EFCore\EfCore.DatabaseFirstByScaffold\obj\Debug\net6.0\EfCore.DatabaseFirstByScaffold.sourcelink.json
